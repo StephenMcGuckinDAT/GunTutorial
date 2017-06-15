@@ -1,0 +1,19 @@
+{
+  "graph": {
+    "greetings": {
+      "_": {
+        "#": "greetings",
+        ">": {
+          "hello": 1497493518502,
+          "browser": 1497490685438.15,
+          "justin": 1497490948234,
+          "barry": 1497491398585.7
+        }
+      },
+      "hello": "world",
+      "browser": "Hello, Node!",
+      "justin": "Clar",
+      "barry": "Is a great father!"
+    }
+  }
+}
